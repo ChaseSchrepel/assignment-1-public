@@ -1,0 +1,49 @@
+h1 {
+font-size: 64px;
+
+}
+
+li {
+    color: ?;
+}
+
+.bold-text {
+font-weight:bold;
+}
+
+.italic-text {
+    font-style:italic;
+}
+
+#site-title {
+   text-align:center;
+}
+
+ ol li{
+    font-style:italic;
+    font-weight:bold;
+    color:darkviolet;
+
+}
+
+#special-div p {
+
+
+}
+
+.centered {
+    text-align: center;
+}
+
+.highlight {
+
+display: inLine-flex;
+background-color: lavender;
+}
+
+#my-selfie{
+    width:400px;
+    height: 400px;
+    background:url(selfie.jpg);
+    background-size: 400px 400px;
+}
